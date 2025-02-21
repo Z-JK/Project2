@@ -1,0 +1,7 @@
+digit = [0-9]
+letter = [a-z]
+_C = letter(letter|digit)*
+_ID = letter*digit+
+_B200S = D+\+
+_A = C
+_DDD100 = ID

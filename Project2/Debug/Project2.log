@@ -1,0 +1,7 @@
+﻿  REXP.CPP
+C:\Users\asus\Desktop\Project2\Project2\REXP.CPP(16,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\asus\Desktop\Project2\Project2\REXP.CPP(27,2): warning C4091: “static ”: 没有声明变量时忽略“ErrType”的左侧
+C:\Users\asus\Desktop\Project2\Project2\REXP.CPP(179,22): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\asus\Desktop\Project2\Project2\REXP.CPP(190,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\asus\Desktop\Project2\Project2\REXP.CPP(215,20): warning C4018: “<”: 有符号/无符号不匹配
+  Project2.vcxproj -> C:\Users\asus\Desktop\Project2\Debug\Project2.exe
